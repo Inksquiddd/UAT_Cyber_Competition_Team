@@ -1,5 +1,7 @@
 Linux Fundamentals: 
 whoami, echo, ls, cat, pwd
+GoBuster scans website for keyword
 Windows Exploitation: 
 BitLocker can only be used in Pro
 Metasploit framework can ping
+WireShark allows PCAP analysis
